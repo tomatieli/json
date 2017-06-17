@@ -1,8 +1,8 @@
 {
-  "name": "Camada Infraestrutura",
+  "name": Infraestrutura",
   "children": [
     {
-      "name": "Perspectiva 1",
+      "name": "Cliente",
       "children": [
         {
           "name": "Grupo 1",
@@ -10,28 +10,767 @@
             {
               "name": "SubGrupo 1",
               "children": [
-                {"name": "Elemento 1", "size": 1000},
-                {"name": "Elemento 2", "size": 1000},
-                {"name": "Elemento 3", "size": 1000},
-                {"name": "Elemento 4", "size": 1000}
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
               ]
             },
             {
               "name": "SubGrupo 2",
               "children": [
-                {"name": "Elemento 1", "size": 1000},
-                {"name": "Elemento 2", "size": 1000},
-                {"name": "Elemento 3", "size": 1000},
-                {"name": "Elemento 4", "size": 1000}
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
               ]
             },
             {
               "name": "SubGrupo 3",
               "children": [
-                {"name": "Elemento 1", "size": 1000},
-                {"name": "Elemento 2", "size": 1000},
-                {"name": "Elemento 3", "size": 1000},
-                {"name": "Elemento 4", "size": 1000}
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 2",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 3",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rede",
+      "size": 0,
+      "children": [
+        {
+          "name": "Grupo 1",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 2",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 3",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interface de Aplicativo",
+      "size": 0,
+      "children": [
+        {
+          "name": "Grupo 1",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 2",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 3",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integração",
+      "size": 0,
+      "children": [
+        {
+          "name": "Grupo 1",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 2",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 3",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Negócio",
+      "size": 0,
+      "children": [
+        {
+          "name": "Grupo 1",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 2",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 3",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Persistência",
+      "size": 0,
+      "children": [
+        {
+          "name": "Grupo 1",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 2",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 3",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Perspectiva 7",
+      "size": 0,
+      "children": [
+        {
+          "name": "Grupo 1",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 2",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grupo 3",
+          "children": [
+            {
+              "name": "SubGrupo 1",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 2",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
+              ]
+            },
+            {
+              "name": "SubGrupo 3",
+              "children": [
+                {"name": "Elemento 1", "size": 8000},
+                {"name": "Elemento 2", "size": 3000},
+                {"name": "Elemento 3", "size": 9000},
+                {"name": "Elemento 4", "size": 5000},
+                {"name": "Elemento 5", "size": 10000}
               ]
             }
           ]
