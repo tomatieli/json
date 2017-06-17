@@ -10,28 +10,28 @@
             {
               "name": "SubGrupo 1",
               "children": [
-                {"name": "Elemento 1", "size": 50},
-                {"name": "Elemento 2", "size": 50},
-                {"name": "Elemento 3", "size": 50},
-                {"name": "Elemento 4", "size": 50}
+                {"name": "Elemento 1", "size": 1000},
+                {"name": "Elemento 2", "size": 1000},
+                {"name": "Elemento 3", "size": 1000},
+                {"name": "Elemento 4", "size": 1000}
               ]
             },
             {
               "name": "SubGrupo 2",
               "children": [
-                {"name": "Elemento 1", "size": 50},
-                {"name": "Elemento 2", "size": 50},
-                {"name": "Elemento 3", "size": 50},
-                {"name": "Elemento 4", "size": 50}
+                {"name": "Elemento 1", "size": 1000},
+                {"name": "Elemento 2", "size": 1000},
+                {"name": "Elemento 3", "size": 1000},
+                {"name": "Elemento 4", "size": 1000}
               ]
             },
             {
               "name": "SubGrupo 3",
               "children": [
-                {"name": "Elemento 1", "size": 50},
-                {"name": "Elemento 2", "size": 50},
-                {"name": "Elemento 3", "size": 50},
-                {"name": "Elemento 4", "size": 50}
+                {"name": "Elemento 1", "size": 1000},
+                {"name": "Elemento 2", "size": 1000},
+                {"name": "Elemento 3", "size": 1000},
+                {"name": "Elemento 4", "size": 1000}
               ]
             }
           ]
